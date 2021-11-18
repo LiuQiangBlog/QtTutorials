@@ -1,2 +1,2 @@
 # QtTutorials
-This Repo Contains Some Qt Demos.
+This Repository Contains Some Qt Demos.
